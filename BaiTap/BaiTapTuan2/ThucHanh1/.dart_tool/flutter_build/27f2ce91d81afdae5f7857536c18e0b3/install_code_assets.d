@@ -1,0 +1,1 @@
+ D:\\projects\\flutter\\LapTrinhMobile\\ThucHanh\\thuchanh1\\.dart_tool\\flutter_build\\27f2ce91d81afdae5f7857536c18e0b3\\native_assets.json: 

@@ -8,10 +8,10 @@
   + SetupNavGraph (từ NavGraph.kt): Thiết lập biểu đồ điều hướng để quản lý chuyển đổi màn hình trong ứng dụng.  
   + MainActivity (từ MainActivity.kt): Điểm đầu vào của ứng dụng, thiết lập giao diện người dùng Compose.
 
-- Kết quả đầu ra (output):
-  ![Màn hình chính](image.png)
-  ![Màn hình các thành phần](image-1.png)
-  ![Màn hình chi tiết thành phần](image-2.png)
+- Kết quả đầu ra (output):  
+  ![Màn hình chính](image.png)  
+  ![Màn hình các thành phần](image-1.png)  
+  ![Màn hình chi tiết thành phần](image-2.png)  
 
 # Bài tập 2: Thiết kế UI và xử lý sự kiện cho Flow OnBoard
 - Bài tập này giúp ta thực hành thiết kế UI và xử lý sự kiện khi ấn vào nút (Next, Back và skip)
@@ -23,8 +23,8 @@
   + OnboardingScreen: Hiển thị các trang onboarding với dots, nút "Skip", "Back", và "Next".
   + DotsIndicator: Hiển thị các dấu chấm xác định vị trí trang.
 
-- Kết quả đầu ra (output):
-![Màn hình khi vào ứng dụng - splash screen](image-3.png)
-![Trang 1](image-4.png)
-![Trang 2](image-5.png)
+- Kết quả đầu ra (output):  
+![Màn hình khi vào ứng dụng - splash screen](image-3.png)  
+![Trang 1](image-4.png)  
+![Trang 2](image-5.png)  
 ![Trang cuối](image-6.png)

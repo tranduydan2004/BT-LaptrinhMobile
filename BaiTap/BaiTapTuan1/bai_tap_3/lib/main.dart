@@ -5,6 +5,8 @@ void main() {
 }
 
 class AppBaiTap3 extends StatelessWidget {
+  const AppBaiTap3({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -18,6 +20,8 @@ class AppBaiTap3 extends StatelessWidget {
 }
 
 class ProfileScreen extends StatelessWidget {
+  const ProfileScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

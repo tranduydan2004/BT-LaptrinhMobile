@@ -19,7 +19,7 @@
         + Hiển thị màn hình chi tiết với một câu trích dẫn, tên tác giả, và liên kết.
         + Cung cấp nút quay lại để trở về màn hình trước đó (ListScreen) và nút "BACK TO ROOT" để quay về RootScreen.
 
-- Kết quả đầu ra (output):
-![Màn hình start](image.png)
-![Màn hình hiển thị các phần tử](image-1.png)
+- Kết quả đầu ra (output):  
+![Màn hình start](image.png)  
+![Màn hình hiển thị các phần tử](image-1.png)  
 ![Màn hình chi tiết phần tử](image-2.png)

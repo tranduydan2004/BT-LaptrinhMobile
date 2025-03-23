@@ -89,30 +89,26 @@ fun ListEmptyScreen() {
                     IconButton(onClick = { /* Xử lý Home */ }) {
                         Icon(
                             imageVector = Icons.Default.Home,
-                            contentDescription = "Home",
-                            tint = Color.Gray
+                            contentDescription = "Home"
                         )
                     }
                     IconButton(onClick = { /* Xử lý Calendar */ }) {
                         Icon(
                             imageVector = Icons.Default.DateRange,
-                            contentDescription = "Calendar",
-                            tint = Color.Gray
+                            contentDescription = "Calendar"
                         )
                     }
                     Spacer(modifier = Modifier.weight(1f))
                     IconButton(onClick = { /* Xử lý Document */ }) {
                         Icon(
                             imageVector = Icons.Default.MailOutline,
-                            contentDescription = "Document",
-                            tint = Color.Gray
+                            contentDescription = "Document"
                         )
                     }
                     IconButton(onClick = { /* Xử lý Settings */ }) {
                         Icon(
                             imageVector = Icons.Default.Settings,
-                            contentDescription = "Settings",
-                            tint = Color.Gray
+                            contentDescription = "Settings"
                         )
                     }
                 }

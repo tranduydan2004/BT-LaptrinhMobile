@@ -14,7 +14,7 @@
  + MainActivity.kt
     - Cập nhật TaskNavigation để quản lý điều hướng và logic thêm task.
 
-- Kết quả đầu ra (output):
-![Màn hình hiển thị danh sách rỗng](image.png)
-![Màn hình sau khi nhấn nút + (thêm)](image-1.png)
-![Màn hình sau khi thêm 1 list mới](image-2.png)
+- Kết quả đầu ra (output):  
+![Màn hình hiển thị danh sách rỗng](image.png)  
+![Màn hình sau khi nhấn nút + (thêm)](image-1.png)  
+![Màn hình sau khi thêm 1 list mới](image-2.png)  

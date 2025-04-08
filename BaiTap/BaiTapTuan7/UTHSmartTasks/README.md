@@ -1,4 +1,4 @@
-# Bài tập tuần 7: Phát triển ứng dụng UTHSmartTask và sử dụng Room
+# Bài tập tuần 7: Phát triển ứng dụng UTHSmartTask theo mô hình MVVM và sử dụng Room
 - Bài tập này giúp ta phát triển ứng dụng UTHSmartTask và sử dụng Room để lưu trữ khi người dùng trong trạng thái offline
 
 - Các hàm đã sử dụng:
